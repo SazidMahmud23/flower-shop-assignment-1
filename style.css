@@ -1,0 +1,30 @@
+.banner{
+   display: flex;
+   justify-content: center;
+   /* border: 2px solid; */
+   background: rgba(229, 84, 115, 0.10);
+   height: 70vh;
+}
+.first-flower{
+    width: 700px;
+   
+   
+}
+.half-width{
+    width: 550px;
+    /* border: 1px solid red; */
+}
+.img-box{
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+}
+.text-box{
+    margin-top: 30px;
+}
+.btn-primary{
+    background: #E55473;
+   width: 150px;
+   height: 50px;
+  border-radius: 5px;
+}
