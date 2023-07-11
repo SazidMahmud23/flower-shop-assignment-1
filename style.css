@@ -131,3 +131,27 @@
     margin-left: 210px;
     gap: 20px;
 }
+.latest-deal{
+    background-image: url('letest.png');
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    padding-top: 100px;
+    padding-left: 80px;
+}.latest-flex{
+    display: flex;
+    gap: 10px;
+    
+}
+.latest-description{
+    margin-left: 100px;
+}
+input{
+    width: 400px;
+    height: 40px;
+}
+.header{
+    margin-left: 90px;
+}
