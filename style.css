@@ -38,6 +38,7 @@
     height: 50px;
     border-radius: 5px;
     color: white;
+    border: 0px;
 }
 
 .more-picture {
@@ -96,7 +97,6 @@
     padding: 50px 50px;
 }
 .hot-deal{
-    border: 1px solid;
     display: flex;
     background: rgba(229, 84, 115, 0.05);
     width: 1335px;
@@ -118,4 +118,16 @@
 }
 #discount{
     color: #E55473;
+}
+.instagram-text{
+    text-align: center;
+    margin-top: 70px;
+}
+.instagram-flower{
+    display: flex;
+    width: 200px;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 210px;
+    gap: 20px;
 }
