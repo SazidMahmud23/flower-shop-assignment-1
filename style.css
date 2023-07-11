@@ -35,7 +35,7 @@
 .btn-primary {
     background: #E55473;
     width: 150px;
-    height: 50px;
+    height: 40px;
     border-radius: 5px;
     color: white;
     border: 0px;
@@ -146,12 +146,27 @@
     
 }
 .latest-description{
-    margin-left: 100px;
+    margin-left: 140px;
+   
+    
 }
 input{
-    width: 400px;
+    width: 430px;
     height: 40px;
+    border: 0px;
+    border-radius: 5px;
 }
 .header{
-    margin-left: 90px;
+    margin-left: 130px;
+    
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+    height: 250px;
+    margin-top: 40px;
+    text-align: center;
+    padding-top: 70px;
+}.flower-footer{
+    color: #E55473;;
 }
