@@ -8,7 +8,7 @@
 
 .first-flower {
     width: 350px;
-    height: 430px;
+    height: 390px;
     padding-top: 20px;
  
    
@@ -169,4 +169,16 @@ input{
     padding-top: 70px;
 }.flower-footer{
     color: #E55473;;
+}
+.bonus{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 40px;
+    font-style: italic;
+    margin: 15px;
+}.service{
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: underline;
 }
